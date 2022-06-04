@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info_list>
+<info>
+	<username>user1</username>
+    <ime>Dino</ime>
+    <prezime>Dvornik</prezime>
+    <img width="100" height="100" src="img\dd.jpg"/>
+    <predmeti>
+        <naziv>XML Programiranje</naziv>
+        <naziv>Baze podataka</naziv>
+    </predmeti>
+	
+</info>
+<info>
+	<username>user2</username>
+    <ime>David</ime>
+    <prezime>Bowie</prezime>
+	<img width="100" height="100" src="img\db.jpg"/>
+    <predmeti>
+        <naziv>Projektno programiranje</naziv>
+        <naziv>PWA</naziv>
+    </predmeti>
+</info>
+<info>
+	<username>user3</username>
+    <ime>Brad</ime>
+    <prezime>Pitt</prezime>
+	<img width="100" height="100" src="img\bp.jpg"/>
+    <predmeti>
+        <naziv>Analiza tabličnih podataka</naziv>
+        <naziv>NTP</naziv>
+    </predmeti>
+</info>
+</info_list>
